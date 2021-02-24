@@ -1,5 +1,6 @@
 # Will-it-Rain ?
 
-Putting this code on cloud , this will send a msg if it will rain today and remind to carry your umbrealla
+Putting this code on cloud , this will send a msg on my phone if it will rain today and will tell me to carry an umbrealla.
 
-Used Twillio for sending sms.
+*Used pythonanywhere for hosting
+*Used Twillio for sending sms.
